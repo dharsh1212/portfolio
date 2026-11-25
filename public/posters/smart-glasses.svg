@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" fill="none">
+  <defs>
+    <radialGradient id="bg1" cx="50%" cy="42%" r="65%">
+      <stop offset="0%" stop-color="#2b0b1e"/>
+      <stop offset="48%" stop-color="#120b1d"/>
+      <stop offset="100%" stop-color="#06060a"/>
+    </radialGradient>
+    <linearGradient id="crimsonGlow" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f43f5e"/>
+      <stop offset="55%" stop-color="#a855f7"/>
+      <stop offset="100%" stop-color="#38bdf8"/>
+    </linearGradient>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="1200" height="720" fill="url(#bg1)"/>
+  <g opacity="0.14" stroke="#8b5cf6" stroke-width="1">
+    <path d="M0 120H1200M0 240H1200M0 360H1200M0 480H1200M0 600H1200"/>
+    <path d="M150 0V720M300 0V720M450 0V720M600 0V720M750 0V720M900 0V720M1050 0V720"/>
+  </g>
+  <!-- Ultrasonic wave arcs -->
+  <g stroke="#38bdf8" stroke-opacity="0.45" stroke-width="2" fill="none">
+    <path d="M840 270 C900 310 900 410 840 450" stroke-dasharray="6 6"/>
+    <path d="M885 235 C965 295 965 425 885 485" stroke-dasharray="8 6"/>
+    <path d="M930 200 C1030 280 1030 440 930 520" stroke-opacity="0.25"/>
+  </g>
+  <!-- Smart Glasses Wireframe Chassis -->
+  <g filter="url(#glow)">
+    <path d="M235 305 L360 280 L555 280 L615 315 L645 315 L705 280 L880 280 L945 310" stroke="url(#crimsonGlow)" stroke-width="5" stroke-linecap="round"/>
+    <rect x="290" y="295" width="235" height="145" rx="28" fill="#0d0e17" fill-opacity="0.82" stroke="url(#crimsonGlow)" stroke-width="3.5"/>
+    <rect x="655" y="295" width="235" height="145" rx="28" fill="#0d0e17" fill-opacity="0.82" stroke="url(#crimsonGlow)" stroke-width="3.5"/>
+    <!-- Bridge & ESP32-CAM pod -->
+    <rect x="210" y="288" width="76" height="54" rx="10" fill="#161826" stroke="#f43f5e" stroke-width="2.5"/>
+    <circle cx="248" cy="315" r="14" fill="#06060a" stroke="#38bdf8" stroke-width="2.5"/>
+    <circle cx="248" cy="315" r="5" fill="#f43f5e"/>
+    <!-- HC-SR04 twin transducers on right temple -->
+    <rect x="892" y="292" width="74" height="46" rx="8" fill="#161826" stroke="#38bdf8" stroke-width="2"/>
+    <circle cx="914" cy="315" r="11" fill="#07080f" stroke="#a855f7" stroke-width="2"/>
+    <circle cx="944" cy="315" r="11" fill="#07080f" stroke="#a855f7" stroke-width="2"/>
+  </g>
+  <!-- HUD reticle inside left lens -->
+  <g stroke="#38bdf8" stroke-opacity="0.7" stroke-width="1.5">
+    <circle cx="408" cy="368" r="42" stroke-dasharray="5 4"/>
+    <line x1="352" y1="368" x2="464" y2="368"/>
+    <line x1="408" y1="312" x2="408" y2="424"/>
+  </g>
+  <!-- Audio waveform in right lens -->
+  <g stroke="#f43f5e" stroke-width="3" stroke-linecap="round">
+    <line x1="720" y1="368" x2="720" y2="368"/>
+    <line x1="736" y1="348" x2="736" y2="388"/>
+    <line x1="752" y1="332" x2="752" y2="404"/>
+    <line x1="768" y1="352" x2="768" y2="384"/>
+    <line x1="784" y1="322" x2="784" y2="414"/>
+    <line x1="800" y1="344" x2="800" y2="392"/>
+    <line x1="816" y1="356" x2="816" y2="380"/>
+  </g>
+  <text x="80" y="95" fill="#f43f5e" font-family="monospace" font-size="18" letter-spacing="4">PROJECT 01 // ASSISTIVE IOT</text>
+  <text x="80" y="615" fill="#e4e4e7" font-family="sans-serif" font-weight="700" font-size="34">AI-POWERED SMART GLASSES</text>
+  <text x="80" y="655" fill="#a1a1aa" font-family="monospace" font-size="18">ESP32-CAM • HC-SR04 ULTRASONIC • TTS VOICE GUIDANCE</text>
+</svg>

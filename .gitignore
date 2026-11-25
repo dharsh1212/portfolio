@@ -1,0 +1,13 @@
+# Dependencies & build output
+node_modules/
+dist/
+
+# Sensitive local auth credentials & environment files
+data/auth.json
+.env
+.env.*
+
+# Logs & OS artifacts
+*.log
+.DS_Store
+Thumbs.db

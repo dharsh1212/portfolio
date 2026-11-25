@@ -1,0 +1,788 @@
+{
+  "profile": {
+    "name": "DHARSHAN S",
+    "subtitle": "Electronics & Communication Engineering",
+    "positioning": "Embedded Systems • IoT • Hardware Prototyping",
+    "focusAreas": [
+      "Embedded Systems",
+      "Sensors & Actuators",
+      "Assistive IoT Technology",
+      "Robotics & Motor Interfacing",
+      "KiCad PCB Prototyping"
+    ],
+    "tagline": "Engineering intelligent hardware-software systems from schematic & PCB layout to real-time embedded firmware.",
+    "ctaPrimary": "Explore Projects",
+    "ctaSecondary": "Digital Dossier",
+    "profilePhotoUrl": "/uploads/1795618205631-03aa38f4-DHARSH_CROP.png",
+    "portraitSourceUrl": "/uploads/1795618205631-03aa38f4-DHARSH_CROP.png",
+    "portraitCalibration": {
+      "leftEyeX": 43,
+      "leftEyeY": 38,
+      "rightEyeX": 57,
+      "rightEyeY": 38,
+      "mouthY": 54,
+      "shoulderY": 74,
+      "zoom": 1.04,
+      "offsetX": 0,
+      "offsetY": 0,
+      "rimColor": "crimson-purple",
+      "enableBlinking": true,
+      "enableBreathing": true,
+      "enableGaze": true,
+      "enableRimLight": true
+    },
+    "resumeUrl": "",
+    "availabilityBadge": "Open to Embedded Systems & Hardware Internships"
+  },
+  "about": {
+    "name": "DHARSHAN S",
+    "course": "B.E. Electronics and Communication Engineering",
+    "institution": "Karpagam Academy of Higher Education",
+    "cgpa": "7.70 / 10.00",
+    "semester": "6th Semester",
+    "batch": "2024–2028",
+    "registerNumber": "24BEECE040",
+    "status": "Active Full-Time Undergraduate",
+    "location": "Salem, Tamil Nadu, India",
+    "summary": "Undergraduate Electronics & Communication Engineering student with hands-on experience in embedded firmware, Embedded C, Python, microcontrollers, sensor interfacing, robotics, AI-assisted systems and PCB prototyping.",
+    "targetOpportunities": [
+      "Embedded Systems",
+      "IoT Engineering",
+      "Hardware Prototyping Trainee"
+    ],
+    "visible": true
+  },
+  "education": [
+    {
+      "id": "edu-1",
+      "degree": "B.E. Electronics and Communication Engineering",
+      "institution": "Karpagam Academy of Higher Education",
+      "period": "2024–2028",
+      "scoreLabel": "Current CGPA: 7.70/10.00",
+      "semesterOrLevel": "6th Semester",
+      "registerNumber": "24BEECE040",
+      "location": "Coimbatore, Tamil Nadu, India",
+      "details": "Focused on embedded systems architecture, microcontroller interfacing, digital electronics, wireless telemetry, assistive IoT systems, and KiCad PCB layout engineering.",
+      "highlights": [
+        "Register No: 24BEECE040",
+        "Current CGPA: 7.70 / 10.00 (6th Semester)",
+        "Hands-on prototyping in ESP32, Pico 2W, Arduino & KiCad EDA"
+      ],
+      "visible": true,
+      "order": 0
+    },
+    {
+      "id": "edu-2",
+      "degree": "Class XII (Higher Secondary)",
+      "institution": "St. Mary's Higher Secondary School, Salem",
+      "period": "2023–2024",
+      "scoreLabel": "77.00%",
+      "semesterOrLevel": "Higher Secondary Certificate",
+      "location": "Salem, Tamil Nadu, India",
+      "details": "Completed higher secondary education with strong foundations in Physics, Mathematics, and foundational computing principles.",
+      "highlights": [
+        "Score: 77.00%",
+        "Physics, Chemistry & Mathematics track"
+      ],
+      "visible": true,
+      "order": 1
+    },
+    {
+      "id": "edu-3",
+      "degree": "Class X (Secondary)",
+      "institution": "St. Mary's Higher Secondary School, Salem",
+      "period": "2021–2022",
+      "scoreLabel": "65.00%",
+      "semesterOrLevel": "Secondary School Leaving Certificate",
+      "location": "Salem, Tamil Nadu, India",
+      "details": "Completed secondary schooling at St. Mary’s Higher Secondary School, Salem, building analytical and technical curiosity.",
+      "highlights": [
+        "Score: 65.00%",
+        "Salem, Tamil Nadu"
+      ],
+      "visible": true,
+      "order": 2
+    }
+  ],
+  "skillCategories": [
+    {
+      "id": "cat-prog",
+      "name": "PROGRAMMING / SOFTWARE",
+      "accent": "crimson",
+      "description": "Firmware languages, scripting, and web telemetry interfaces",
+      "visible": true,
+      "order": 0,
+      "skills": [
+        {
+          "id": "sk-1",
+          "name": "Embedded C",
+          "level": "Core",
+          "visible": true,
+          "order": 0
+        },
+        {
+          "id": "sk-2",
+          "name": "C++",
+          "level": "Proficient",
+          "visible": true,
+          "order": 1
+        },
+        {
+          "id": "sk-3",
+          "name": "Python",
+          "level": "Proficient",
+          "visible": true,
+          "order": 2
+        },
+        {
+          "id": "sk-4",
+          "name": "JavaScript",
+          "level": "Working",
+          "visible": true,
+          "order": 3
+        },
+        {
+          "id": "sk-5",
+          "name": "HTML5",
+          "level": "Working",
+          "visible": true,
+          "order": 4
+        },
+        {
+          "id": "sk-6",
+          "name": "CSS3",
+          "level": "Working",
+          "visible": true,
+          "order": 5
+        }
+      ]
+    },
+    {
+      "id": "cat-mcu",
+      "name": "MICROCONTROLLERS",
+      "accent": "purple",
+      "description": "Target MCUs for real-time control, edge vision, and IoT nodes",
+      "visible": true,
+      "order": 1,
+      "skills": [
+        {
+          "id": "sk-7",
+          "name": "ESP32 / ESP32-WROOM-32",
+          "level": "Core",
+          "visible": true,
+          "order": 0
+        },
+        {
+          "id": "sk-8",
+          "name": "Arduino Uno",
+          "level": "Core",
+          "visible": true,
+          "order": 1
+        },
+        {
+          "id": "sk-9",
+          "name": "Arduino Nano",
+          "level": "Core",
+          "visible": true,
+          "order": 2
+        },
+        {
+          "id": "sk-10",
+          "name": "Raspberry Pi Pico 2W",
+          "level": "Proficient",
+          "visible": true,
+          "order": 3
+        }
+      ]
+    },
+    {
+      "id": "cat-arch",
+      "name": "ARCHITECTURE",
+      "accent": "blue",
+      "description": "Low-level peripheral configuration and deterministic control",
+      "visible": true,
+      "order": 2,
+      "skills": [
+        {
+          "id": "sk-11",
+          "name": "GPIO",
+          "level": "Core",
+          "visible": true,
+          "order": 0
+        },
+        {
+          "id": "sk-12",
+          "name": "Timers & PWM",
+          "level": "Core",
+          "visible": true,
+          "order": 1
+        },
+        {
+          "id": "sk-13",
+          "name": "Interrupt Handling",
+          "level": "Proficient",
+          "visible": true,
+          "order": 2
+        },
+        {
+          "id": "sk-14",
+          "name": "Serial UART",
+          "level": "Core",
+          "visible": true,
+          "order": 3
+        }
+      ]
+    },
+    {
+      "id": "cat-sensors",
+      "name": "SENSORS",
+      "accent": "crimson",
+      "description": "Motion, ranging, and embedded camera acquisition modules",
+      "visible": true,
+      "order": 3,
+      "skills": [
+        {
+          "id": "sk-15",
+          "name": "MPU6050 6-Axis IMU",
+          "level": "Proficient",
+          "visible": true,
+          "order": 0
+        },
+        {
+          "id": "sk-16",
+          "name": "HC-SR04",
+          "level": "Core",
+          "visible": true,
+          "order": 1
+        },
+        {
+          "id": "sk-17",
+          "name": "ESP32-CAM",
+          "level": "Proficient",
+          "visible": true,
+          "order": 2
+        }
+      ]
+    },
+    {
+      "id": "cat-actuators",
+      "name": "ACTUATORS",
+      "accent": "purple",
+      "description": "Motor power stages, drive trains, and audio feedback output",
+      "visible": true,
+      "order": 4,
+      "skills": [
+        {
+          "id": "sk-18",
+          "name": "L298N Motor Driver",
+          "level": "Core",
+          "visible": true,
+          "order": 0
+        },
+        {
+          "id": "sk-19",
+          "name": "DC Geared Motors",
+          "level": "Core",
+          "visible": true,
+          "order": 1
+        },
+        {
+          "id": "sk-20",
+          "name": "Mini Audio Speakers / TTS",
+          "level": "Proficient",
+          "visible": true,
+          "order": 2
+        }
+      ]
+    },
+    {
+      "id": "cat-wireless",
+      "name": "WIRELESS",
+      "accent": "blue",
+      "description": "Short-range control links and local Wi-Fi telemetry",
+      "visible": true,
+      "order": 5,
+      "skills": [
+        {
+          "id": "sk-21",
+          "name": "Bluetooth HC-05 / BLE",
+          "level": "Core",
+          "visible": true,
+          "order": 0
+        },
+        {
+          "id": "sk-22",
+          "name": "Wi-Fi ESP32 802.11 b/g/n",
+          "level": "Core",
+          "visible": true,
+          "order": 1
+        }
+      ]
+    },
+    {
+      "id": "cat-buses",
+      "name": "BUSES",
+      "accent": "crimson",
+      "description": "Board-level synchronous and asynchronous serial protocols",
+      "visible": true,
+      "order": 6,
+      "skills": [
+        {
+          "id": "sk-23",
+          "name": "I2C",
+          "level": "Core",
+          "visible": true,
+          "order": 0
+        },
+        {
+          "id": "sk-24",
+          "name": "SPI",
+          "level": "Proficient",
+          "visible": true,
+          "order": 1
+        },
+        {
+          "id": "sk-25",
+          "name": "UART / Serial",
+          "level": "Core",
+          "visible": true,
+          "order": 2
+        }
+      ]
+    },
+    {
+      "id": "cat-eda",
+      "name": "EDA / SIMULATION",
+      "accent": "purple",
+      "description": "Schematic capture, PCB physical layout, and virtual validation",
+      "visible": true,
+      "order": 7,
+      "skills": [
+        {
+          "id": "sk-26",
+          "name": "KiCad Schematic Editor",
+          "level": "Proficient",
+          "visible": true,
+          "order": 0
+        },
+        {
+          "id": "sk-27",
+          "name": "PCB Layout",
+          "level": "Proficient",
+          "visible": true,
+          "order": 1
+        },
+        {
+          "id": "sk-28",
+          "name": "3D Viewer",
+          "level": "Proficient",
+          "visible": true,
+          "order": 2
+        },
+        {
+          "id": "sk-29",
+          "name": "Footprint Assignment",
+          "level": "Proficient",
+          "visible": true,
+          "order": 3
+        },
+        {
+          "id": "sk-30",
+          "name": "Proteus VSM",
+          "level": "Proficient",
+          "visible": true,
+          "order": 4
+        },
+        {
+          "id": "sk-31",
+          "name": "Virtual Instruments",
+          "level": "Proficient",
+          "visible": true,
+          "order": 5
+        }
+      ]
+    },
+    {
+      "id": "cat-lab",
+      "name": "LAB",
+      "accent": "blue",
+      "description": "Hardware bring-up, bench verification, and rework instrumentation",
+      "visible": true,
+      "order": 8,
+      "skills": [
+        {
+          "id": "sk-32",
+          "name": "Digital Multimeter",
+          "level": "Core",
+          "visible": true,
+          "order": 0
+        },
+        {
+          "id": "sk-33",
+          "name": "DC Bench Supply",
+          "level": "Core",
+          "visible": true,
+          "order": 1
+        },
+        {
+          "id": "sk-34",
+          "name": "Soldering Iron",
+          "level": "Core",
+          "visible": true,
+          "order": 2
+        },
+        {
+          "id": "sk-35",
+          "name": "Breadboard Testing",
+          "level": "Core",
+          "visible": true,
+          "order": 3
+        },
+        {
+          "id": "sk-36",
+          "name": "Component Testers",
+          "level": "Proficient",
+          "visible": true,
+          "order": 4
+        },
+        {
+          "id": "sk-37",
+          "name": "Optical Inspection",
+          "level": "Proficient",
+          "visible": true,
+          "order": 5
+        }
+      ]
+    },
+    {
+      "id": "cat-lang",
+      "name": "LANGUAGES",
+      "accent": "emerald",
+      "description": "Technical communication and collaboration fluency",
+      "visible": true,
+      "order": 9,
+      "skills": [
+        {
+          "id": "sk-38",
+          "name": "Tamil — Native",
+          "level": "Native",
+          "visible": true,
+          "order": 0
+        },
+        {
+          "id": "sk-39",
+          "name": "English — Professional",
+          "level": "Professional",
+          "visible": true,
+          "order": 1
+        }
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": "proj-1",
+      "code": "PROJECT 01",
+      "title": "AI-Powered Smart Glasses for Visually Impaired People",
+      "category": "Assistive IoT & Edge AI",
+      "description": "Wearable assistive vision prototype combining real-time ultrasonic obstacle ranging, ESP32-CAM visual capture, and spoken audio guidance via compact speaker/TTS feedback.",
+      "problem": "Visually impaired individuals face unexpected overhead and mid-level obstacles in unfamiliar indoor and outdoor spaces that traditional white canes alone cannot detect early or describe contextually.",
+      "solution": "Engineered a lightweight eyewear-mounted embedded unit integrating ESP32-CAM streaming, HC-SR04 proximity alerts, and AI-assisted object recognition that delivers low-latency voice prompts directly to the user.",
+      "contribution": "Designed the hardware architecture, integrated ESP32-CAM and HC-SR04 timing loops, calibrated distance thresholds, implemented audio/TTS feedback pipeline, and validated wearable ergonomics.",
+      "technologies": [
+        "ESP32-CAM",
+        "Edge Vision",
+        "TTS Audio",
+        "Ultrasonic Sensing",
+        "Wi-Fi Telemetry"
+      ],
+      "hardware": [
+        "ESP32-CAM",
+        "HC-SR04 Ultrasonic Sensor",
+        "Mini Audio Speaker / Amplifier",
+        "Li-Po Power Stage"
+      ],
+      "software": [
+        "Embedded C / Arduino",
+        "Python AI Inference",
+        "UART / Wi-Fi Streaming"
+      ],
+      "status": "Prototype Ready",
+      "images": [
+        "/posters/smart-glasses.svg"
+      ],
+      "videos": [],
+      "githubUrl": "https://github.com/dharsh1212",
+      "liveDemoUrl": "",
+      "featured": true,
+      "visible": true,
+      "order": 0
+    },
+    {
+      "id": "proj-2",
+      "code": "PROJECT 02",
+      "title": "Smartphone Bluetooth-Controlled RC Robotic Vehicle",
+      "category": "Robotics & Motor Interfacing",
+      "description": "Responsive wireless robotic rover controlled over Bluetooth serial commands with dual H-bridge PWM speed modulation and smooth directional maneuvering.",
+      "problem": "Manual tethered robots restrict mobility while unfiltered motor switching causes erratic movement and power brownouts during rapid directional transitions.",
+      "solution": "Built an Arduino-based 4-wheel/differential robotic platform driven by an L298N dual H-bridge driver and HC-05 Bluetooth SPP receiver with deterministic UART command parsing and PWM ramp control.",
+      "contribution": "Wired the L298N power and logic stages, developed interrupt-safe UART packet decoding firmware in Embedded C/C++, tuned PWM duty cycles for DC geared motors, and tested mobile app control latency.",
+      "technologies": [
+        "Bluetooth SPP",
+        "PWM Motor Control",
+        "UART Protocol",
+        "Embedded Robotics"
+      ],
+      "hardware": [
+        "Arduino Uno / Nano",
+        "HC-05 Bluetooth Module",
+        "L298N Motor Driver",
+        "DC Geared Motors",
+        "Battery Pack"
+      ],
+      "software": [
+        "Embedded C++",
+        "Serial UART Command Parser",
+        "Android Bluetooth Controller"
+      ],
+      "status": "Completed",
+      "images": [
+        "/posters/rc-rover.svg"
+      ],
+      "videos": [],
+      "githubUrl": "https://github.com/dharsh1212",
+      "liveDemoUrl": "",
+      "featured": true,
+      "visible": true,
+      "order": 1
+    },
+    {
+      "id": "proj-3",
+      "code": "PROJECT 03",
+      "title": "PCB Design and Circuit Development Using KiCad",
+      "category": "EDA & Hardware Prototyping",
+      "description": "End-to-end schematic capture, footprint assignment, design rule verification, multi-layer copper routing, and 3D enclosure clearance inspection in KiCad EDA.",
+      "problem": "Breadboard prototypes suffer from loose jumper contacts, parasitic noise, and fragile mechanical footprints that fail during sustained embedded testing.",
+      "solution": "Translated breadboard circuits into production-ready schematic sheets and compact PCB layouts in KiCad with verified component footprints, clean power/ground pours, and Gerber generation.",
+      "contribution": "Authored custom schematics, mapped verified footprints, routed signal and power traces respecting DRC clearances, inspected boards in KiCad 3D Viewer, and validated circuits in Proteus VSM.",
+      "technologies": [
+        "KiCad EDA",
+        "Schematic Capture",
+        "PCB Routing",
+        "DRC & Gerber",
+        "Proteus VSM"
+      ],
+      "hardware": [
+        "Custom Microcontroller Carrier Circuits",
+        "Power Regulation & Pin Headers",
+        "SMD / THT Footprints"
+      ],
+      "software": [
+        "KiCad Schematic Editor",
+        "KiCad PCB Layout & 3D Viewer",
+        "Proteus VSM Simulation"
+      ],
+      "status": "Completed",
+      "images": [
+        "/posters/kicad-pcb.svg"
+      ],
+      "videos": [],
+      "githubUrl": "https://github.com/dharsh1212",
+      "liveDemoUrl": "",
+      "featured": true,
+      "visible": true,
+      "order": 2
+    }
+  ],
+  "internships": [
+    {
+      "id": "int-1",
+      "organization": "Zen 1 Techpark, Erode",
+      "role": "Intern — Embedded Systems",
+      "duration": "06/05/2026 – 25/05/2026",
+      "division": "Embedded Systems",
+      "location": "Erode, Tamil Nadu",
+      "focus": "Microcontroller architectures, peripheral interfacing, memory addressing, firmware programming, hardware constraints, sensor integration and industrial testing.",
+      "outcomes": [
+        "Low-level peripheral & memory-mapped register workflows",
+        "Firmware debugging under hardware timing and power constraints",
+        "Sensor integration and industrial bench validation"
+      ],
+      "visible": true,
+      "order": 0
+    },
+    {
+      "id": "int-2",
+      "organization": "Odugaatech Pvt. Ltd., Salem",
+      "role": "Intern — Embedded Systems",
+      "duration": "24/11/2025 – 01/12/2025",
+      "certificateNo": "ODU25IN5119",
+      "standard": "ISO 9001:2015",
+      "location": "Salem, Tamil Nadu",
+      "focus": "Circuit building, microcontroller programming and analog/digital sensors.",
+      "outcomes": [
+        "Structured circuit assembly and signal conditioning",
+        "Analog and digital sensor calibration with microcontrollers",
+        "Certified under ISO 9001:2015 training standards (Cert No: ODU25IN5119)"
+      ],
+      "visible": true,
+      "order": 1
+    },
+    {
+      "id": "int-3",
+      "organization": "Teachnook",
+      "role": "Internet of Things (IoT) Trainee",
+      "duration": "June–July 2025 (2-month training)",
+      "certifiedDate": "15/07/2025",
+      "location": "Remote / Online",
+      "focus": "Smart connected devices, wireless telemetry and cloud sensor dashboard integration.",
+      "outcomes": [
+        "End-to-end IoT device-to-cloud telemetry pipeline",
+        "Real-time sensor data visualization on cloud dashboards",
+        "2-month intensive training certified on 15/07/2025"
+      ],
+      "visible": true,
+      "order": 2
+    },
+    {
+      "id": "int-4",
+      "organization": "S N Solar Solutions, Salem",
+      "role": "Intern — Solar Energy & ECE",
+      "duration": "26/05/2025 – 04/06/2025",
+      "location": "Salem, Tamil Nadu",
+      "focus": "Solar PV generation, power conditioning, inverter circuitry, battery storage and solar efficiency.",
+      "outcomes": [
+        "Analyzed PV array characteristics and charge controller stages",
+        "Examined inverter conversion circuitry and battery storage safety",
+        "Evaluated system-level solar energy conversion efficiency"
+      ],
+      "visible": true,
+      "order": 3
+    }
+  ],
+  "certifications": [
+    {
+      "id": "cert-1",
+      "name": "Embedded Systems Internship Certificate",
+      "organization": "Odugaatech Pvt. Ltd., Salem (ISO 9001:2015)",
+      "issueDate": "01/12/2025",
+      "certificateId": "ODU25IN5119",
+      "category": "Embedded Systems",
+      "description": "Hands-on industrial training covering circuit building, microcontroller programming, and analog/digital sensor interfacing.",
+      "verificationUrl": "",
+      "fileUrl": "",
+      "fileType": "other",
+      "thumbnailUrl": "",
+      "featured": true,
+      "visible": true,
+      "order": 0
+    },
+    {
+      "id": "cert-2",
+      "name": "Internet of Things (IoT) Training Certification",
+      "organization": "Teachnook",
+      "issueDate": "15/07/2025",
+      "certificateId": "TN-IOT-2025",
+      "category": "Internet of Things",
+      "description": "2-month IoT training program covering smart connected devices, wireless telemetry, and cloud sensor dashboard integration.",
+      "verificationUrl": "",
+      "fileUrl": "",
+      "fileType": "other",
+      "thumbnailUrl": "",
+      "featured": true,
+      "visible": true,
+      "order": 1
+    }
+  ],
+  "activities": [
+    {
+      "id": "act-1",
+      "title": "ByteBlaze 12-Hour National Level Hackathon Finalist",
+      "category": "Hackathons",
+      "organization": "ByteBlaze National Hackathon",
+      "date": "2025",
+      "description": "Selected as a Finalist in the intensive 12-hour National Level Hackathon, architecting and demonstrating a working hardware-software prototype under strict time constraints.",
+      "badgeText": "National Finalist",
+      "imageUrl": "",
+      "linkUrl": "",
+      "featured": true,
+      "visible": true,
+      "order": 0
+    },
+    {
+      "id": "act-2",
+      "title": "4-Day Robotics Workshop",
+      "category": "Workshops",
+      "organization": "Robomatiic / CADD Technologies",
+      "date": "2025",
+      "description": "Completed an intensive 4-day hands-on robotics workshop covering microcontroller actuation, motor driver interfacing, sensor feedback loops, and autonomous chassis control.",
+      "badgeText": "4-Day Intensive",
+      "imageUrl": "",
+      "linkUrl": "",
+      "featured": true,
+      "visible": true,
+      "order": 1
+    }
+  ],
+  "contact": {
+    "name": "DHARSHAN S",
+    "email": "dharshan12122006@gmail.com",
+    "phone": "+91 8072927184",
+    "whatsapp": "+91 8072927184",
+    "location": "Salem, Tamil Nadu, India",
+    "headline": "Initiate a Hardware or Embedded Collaboration",
+    "subtext": "Available for Embedded Systems internships, IoT prototyping collaborations, PCB hardware design projects, and engineering trainee roles.",
+    "visible": true
+  },
+  "socialLinks": [
+    {
+      "id": "soc-1",
+      "platform": "LinkedIn",
+      "label": "LinkedIn Profile",
+      "url": "https://linkedin.com/in/dharshan-s-429284335",
+      "displayText": "linkedin.com/in/dharshan-s-429284335",
+      "visible": true,
+      "order": 0
+    },
+    {
+      "id": "soc-2",
+      "platform": "GitHub",
+      "label": "GitHub Repositories",
+      "url": "https://github.com/dharsh1212",
+      "displayText": "github.com/dharsh1212",
+      "visible": true,
+      "order": 1
+    }
+  ],
+  "media": [],
+  "settings": {
+    "siteTitle": "DHARSHAN S | Electronics & Communication Engineering Portfolio",
+    "metaDescription": "Portfolio of DHARSHAN S — Embedded Systems, IoT, Hardware Prototyping, Robotics, PCB Design, and Electronics & Communication Engineering.",
+    "introEnabled": true,
+    "reducedMotionDefault": false,
+    "atmosphereIntensity": "cinematic",
+    "sectionTitles": {
+      "home": "HOME",
+      "about": "ABOUT",
+      "education": "EDUCATION",
+      "skills": "SKILLS",
+      "projects": "PROJECTS",
+      "internships": "INTERNSHIPS",
+      "certifications": "CERTIFICATIONS",
+      "achievements": "ACHIEVEMENTS",
+      "contact": "CONTACT"
+    },
+    "sectionVisibility": {
+      "home": true,
+      "about": true,
+      "education": true,
+      "skills": true,
+      "projects": true,
+      "internships": true,
+      "certifications": true,
+      "achievements": true,
+      "contact": true
+    }
+  },
+  "updatedAt": "2026-11-25T14:50:12.770Z"
+}
